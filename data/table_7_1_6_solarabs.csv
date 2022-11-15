@@ -1,0 +1,14 @@
+﻿Surface_Color,Shade,New,Average,Aged
+White,None,0.17,0.25,0.34
+Aluminum,Specular,0.39,0.44,0.49
+Aluminum,Diffuse,0.6,0.64,0.68
+Beige/Cream,None,0.35,0.42,0.49
+Black,None,0.97,0.97,0.97
+Brown,None,0.58,0.62,0.67
+Gray,Light,0.54,0.58,0.63
+Gray,Medium,0.68,0.71,0.74
+Green,Dark,0.89,0.9,0.91
+Red,Primer,0.89,0.9,0.91
+Rust,Red Iron Oxide,0.38,0.44,0.5
+Tan,None,0.43,0.49,0.55
+Aluminum,Mill Finish/Unpainted,0.1,0.12,0.15
