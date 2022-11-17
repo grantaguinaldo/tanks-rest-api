@@ -14,7 +14,7 @@ app = Flask(__name__)
 def is_alive():
     return 'This is Tanks 4.09_d on the Web'
 
-@app.route('/apiv001/vfrt', methods=['POST'])
+@app.route('/api/v1/001/vfrt', methods=['POST'])
 def main():
 
     POST_DATA = request.get_json()
