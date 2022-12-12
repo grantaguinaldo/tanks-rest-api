@@ -409,4 +409,14 @@ def returnData1(shellHeight=None,
 
     }
     
-    return return_data
+    
+    data_dict = {
+        'total_losses': lt,
+        'standing_losses': ls,
+        'working_losses': lw,
+        'data': return_data,
+        'support_data': 'https://enveraconsulting.com'
+    }
+    
+    
+    return data_dict
